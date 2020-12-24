@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.github.vitalliuss.helloci.AppTest" time="0.059" tests="5" errors="0" skipped="1" failures="1">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.github.vitalliuss.helloci.AppTest" time="0.057" tests="5" errors="0" skipped="1" failures="0">
   <properties>
     <property name="java.specification.version" value="15"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="RU"/>
     <property name="sun.boot.library.path" value="c:\Program Files\Java\jdk-15.0.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\anisa\AppData\Local\Temp\surefire6722460254018214599\surefirebooter836971893101237709.jar C:\Users\anisa\AppData\Local\Temp\surefire6722460254018214599 2020-12-24T20-03-06_349-jvmRun1 surefire17911825863087181695tmp surefire_012062949112907089813tmp"/>
+    <property name="sun.java.command" value="C:\Users\anisa\AppData\Local\Temp\surefire2461340527243835881\surefirebooter15104975514901055961.jar C:\Users\anisa\AppData\Local\Temp\surefire2461340527243835881 2020-12-24T20-09-03_200-jvmRun1 surefire5890554085778190662tmp surefire_0471479075877367250tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="D:\learning\epam\homeworks\maven\Java\target\test-classes;D:\learning\epam\homeworks\maven\Java\target\classes;C:\Users\anisa\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\anisa\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\anisa\AppData\Local\Temp\surefire6722460254018214599\surefirebooter836971893101237709.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\anisa\AppData\Local\Temp\surefire2461340527243835881\surefirebooter15104975514901055961.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="15.0.1+9-18"/>
@@ -55,11 +55,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="59.0"/>
   </properties>
-  <testcase name="testShouldBeFailed" classname="com.github.vitalliuss.helloci.AppTest" time="0.007">
-    <failure type="java.lang.AssertionError">java.lang.AssertionError
-	at com.github.vitalliuss.helloci.AppTest.testShouldBeFailed(AppTest.java:21)
-</failure>
-  </testcase>
+  <testcase name="testShouldBeFailed" classname="com.github.vitalliuss.helloci.AppTest" time="0.002"/>
   <testcase name="testShouldBePassed" classname="com.github.vitalliuss.helloci.AppTest" time="0"/>
   <testcase name="testAnotherMethod" classname="com.github.vitalliuss.helloci.AppTest" time="0"/>
   <testcase name="testAnotherClass" classname="com.github.vitalliuss.helloci.AppTest" time="0"/>
